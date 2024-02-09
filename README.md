@@ -1,6 +1,6 @@
 # Deploy Vite project jako GitHub Pages 
 
-Návod je pro nás účastníky Czechitas kurzů **React** nebo **Digitální akademie: Web**, abychom si mohli své projekty založené pomocí příkazu
+Návod je pro nás účastníky [Czechitas](https://www.czechitas.cz/) kurzů **React** nebo **Digitální akademie: Web**, abychom si mohli své projekty založené pomocí příkazu
 
 `npm init kodim-app@latest nazev-projektu react`
 
@@ -98,11 +98,11 @@ Soubory `.gitignote` a `vite.config.js` nezapomeneme uložit.
 
     V hlavním adresáři budeme mít tuto cestu k souboru `.github/workflows/main.yml`
 
-5. vrátíme se zpět do svého repozitáře a pokud byly naše stránky úspěšně deploynuty, zobrazí se nám zelená ✔.
+5. Vrátíme se zpět do svého repozitáře a pokud byly naše stránky úspěšně deploynuty, zobrazí se nám zelená ✔.
 
     ![screenshot](./design/screen_deploy-success.jpg)
 
-6. jako poslední krok u About přes kliknutí na ikonu nastavení zatrhneme "Use your GitHub Pages website" a změny uložíme.
+6. Jako poslední krok u About přes kliknutí na ikonu nastavení zatrhneme "Use your GitHub Pages website" a změny uložíme.
 
     ![screenshot](./design/screen_edit-repository-detail.jpg)
 
