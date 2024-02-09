@@ -4,7 +4,7 @@ Návod je pro nás účastníky [Czechitas](https://www.czechitas.cz/) kurzů **
 
 `npm init kodim-app@latest nazev-projektu react`
 
-publikovat na GitHub Pages bez nutnosti hledat poskytovatele webhostingů.
+publikovat na GitHub Pages.
 
 Níže uvedený postup je užitečný za předpokladu, že dokážeme u sebe na localhostu projekt sestavit pomocí příkazu `npm run build` a následně jej publikovat na svůj GitHub účet.
 
@@ -102,7 +102,7 @@ Soubory `.gitignote` a `vite.config.js` nezapomeneme uložit.
 
     ![screenshot](./design/screen_deploy-success.jpg)
 
-6. Jako poslední krok u About přes kliknutí na ikonu nastavení zatrhneme "Use your GitHub Pages website" a změny uložíme.
+6. Jako poslední krok u **About** kliknutí na ikonu nastavení ⚙ zatrhneme "*Use your GitHub Pages website*" a změny uložíme.
 
     ![screenshot](./design/screen_edit-repository-detail.jpg)
 
