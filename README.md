@@ -9,7 +9,7 @@ publikovat na GitHub Pages.
 Níže uvedený postup je užitečný za předpokladu, že dokážeme u sebe na localhostu projekt sestavit pomocí příkazu `npm run build` a následně jej publikovat na svůj GitHub účet.
 
 
-## Před push do repozitáře na svém GH účtu
+## Před pushnutím do repozitáře na svém GitHub účtu
 1. V souboru `.gitignote` zakomentujeme pomocí znaku `#` řádek č. 3, na kterém se nachází `package-lock.json`
 
     ![screenshot](./design/screen_gitignore.jpg)
@@ -28,7 +28,7 @@ Soubory `.gitignote` a `vite.config.js` nezapomeneme uložit.
 
 
 
-## Po úspěšném pushnutí svého repozitáře na GH
+## Po úspěšném pushnutí svého repozitáře na GitHub účet
 1. V nastavení svého repozitáře přes menu **Settings** > **Pages** > u **Source Deploy from a branch** vybereme *GitHubActions*
 
     ![screenshot](./design/screen_create-actions.jpg)
